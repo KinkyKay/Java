@@ -1,0 +1,11 @@
+A java program is executed from the main method in the class.
+
+EXAMPLE: Welcome
+
+Class names start with an uppercase letter.
+The main method is the entry point where the program begins execution.
+A method is a construct that contains statements.
+String is a programming term meaning a sequence of characters. A string must be enclosed in double quotation marks. Every statement in Java ends with a semicolon (;), known as the statement terminator.
+Reserved words: class, static, void, public
+
+EXAMPLE: WelcomeWithThreeMessages - ComputeExpression

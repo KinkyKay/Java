@@ -1,0 +1,38 @@
+Java has six numeric types for integers and floating-point numbers with operators + , - , * ,  / , and %.
+
+9.1. Numeric Types
+Eight primitive data types for numeric values, characters and Boolean values:
+
+Java uses four types for integers: byte, short, int and long and two types for floating-point numbers:
+float and double.
+
+9.2. Reading Numbers from the Keyboard
+You can also use the methods to read a number of the byte, short, int, long and float type.
+
+Methods for Scanner Objects:
+Method	Description
+nextByte()	    Reads an integer of the byte type.
+nextShort()	    Reads an integer of the short type.
+nextInt()	    Reads an integer of the int type.
+nextLong()	    Reads an integer of the long type.
+nextFloat() 	Reads an integer of the float type.
+nextDouble()	Reads an integer of the double type.
+
+EXAMPLE: ReadingNumbersFromTheKeyboard.java
+
+9.3 Numeric Operators
+Name	Meaning	Example	Result
++	Addition	34 + 1	35
+- 	Substraction	34.0 - 0.1	33.9
+• 	Multiplication	300 * 30	9000
+/	Division	1.0/2.0	0.5
+%	Remainder	20%3	2
+
+EXAMPLE: DisplayTime.java
+
+9.4. Exponent Operators
+The Math.pow(a, b) method can be used to compute ab.
+
+EXAMPLE: ExponentOperators.java
+
+

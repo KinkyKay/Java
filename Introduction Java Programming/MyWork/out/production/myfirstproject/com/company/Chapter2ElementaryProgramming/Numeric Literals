@@ -1,0 +1,16 @@
+A literal is a constant value that appears directly in a program.
+
+10.1. Integer Literals
+An integer literal can be assigned to an integer variable as long as it can fit into the variable.
+Example:
+	int numberOfYears = 34;
+	double weight = 0.305;
+
+10.2. Floating-Point Literals
+A Floating-Point Literals is treated as a double type value. You can make a number a float by appending the letter f or F, and you can make a double by appending the letter d or D.
+
+EXAMPLE: FloatingPointLiterals
+
+10.3. Scientific Notation
+Floating-Point literals can be written in scientific notation in the form of a x 10b.
+

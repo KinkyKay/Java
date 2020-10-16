@@ -1,0 +1,11 @@
+An if-else statement decides the execution path based on whether the condition is true or false.
+
+    Here is the syntax for a two-way if-else statement:
+
+        if (boolean-expression) {
+            statement(s) - for - the - true - case;
+        }
+        else {
+            statement(s) - for - the - false - case;
+        }
+

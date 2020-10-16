@@ -1,0 +1,20 @@
+Writing a program involves designing a strategy for solving the problem then using a programming language to implement
+that strategy.
+
+Let's first consider the simple problem of computing the area of a circle. How do we write a program for solving this
+problem?
+
+The algorithm for calculating the area of a circle can be described as follows:
+				1) Read in the circle's radius
+				2) Compute the area using the following formula:
+						Area = radius * radius * Pi
+				3) Display the result.
+
+Java provides simple data types for representing integers, real numbers, characters, and Boolean types. These are know
+as primitive data types.
+Numers with a decimal point are represented using a method known as floating-point. You can use the keyword double to
+declare a floating-point variable.
+
+EXAMPLE: ComputeArea
+
+

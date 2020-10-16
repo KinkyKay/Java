@@ -1,0 +1,11 @@
+	5. Java, the World Wide Web, and Beyond
+Java is a powerful and versatile language for developing software running on mobile devices, desktop computers,
+and servers.
+
+	6. The Java Language Specification, API, JDK, JRE and IDE.
+Java syntax is defined in the Java language specification, and the Java library is defined in the Java application
+program interface (API). The JDK is the software for compiling and running Java programs. An IDE is an integrated
+development environment for rapidly developing programs.
+
+You can find the complete Java language specification at docs.oracle.com/javase/specs/.
+The Java API you can download from download.java.net/jdk8/docs/api/.

@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a257de9-1ab0-4a0f-a93b-f27c7a4da204" name="Default Changelist" comment="Chapter 2 : pag 56 - 62">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Chapter2/AssignmentStatementsAndAssignmentExpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Chapter2/ComputeAreaWithConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Chapter2/ComputeLoan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Chapter2/DispleyTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Chapter2/ExponentOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Chapter2/FahrenheitToCelsius.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Chapter2/FloatingPointLiterals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Chapter2/ProgrammingExcercises/ComputeVolumeTriangel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Chapter2/ProgrammingExcercises/ConvertMetersIntoFeet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Chapter2/ProgrammingExcercises/ConvertMileToKilometer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Chapter2/ReadingNumbersFromTheKeyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Chapter2/SalesTax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Chapter2/ShowCurrentTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Chapter2/Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter2/ComputeChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Chapter2/ComputeChange.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eJHgg3CYfnCHZZOX5xgOSNPEhk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Application.ConvertMetersIntoFeet">
+    <configuration name="ComputeChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter2.ComputeChange" />
+      <module name="myfirstproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputeLoan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter2.ComputeLoan" />
+      <module name="myfirstproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputeVolumeTriangel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter2.ProgrammingExcercises.ComputeVolumeTriangel" />
+      <module name="myfirstproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Chapter2.ProgrammingExcercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertMetersIntoFeet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter2.ProgrammingExcercises.ConvertMetersIntoFeet" />
+      <module name="myfirstproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Chapter2.ProgrammingExcercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertMileToKilometer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter2.ProgrammingExcercises.ConvertMileToKilometer" />
+      <module name="myfirstproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Chapter2.ProgrammingExcercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConvertMetersIntoFeet" />
+        <item itemvalue="Application.ComputeVolumeTriangel" />
+        <item itemvalue="Application.ConvertMileToKilometer" />
+        <item itemvalue="Application.ComputeChange" />
+        <item itemvalue="Application.ComputeLoan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a257de9-1ab0-4a0f-a93b-f27c7a4da204" name="Default Changelist" comment="" />
+      <created>1594032887736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594032887736</updated>
+      <workItem from="1597402371175" duration="8371000" />
+    </task>
+    <task id="LOCAL-00001" summary="changes new day">
+      <created>1594192617331</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594192617331</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changes new day">
+      <created>1594194983100</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594194983100</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Exceptions">
+      <created>1594198989241</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594198989241</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Read and write">
+      <created>1594281227303</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594281227303</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Read and write">
+      <created>1594281272177</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594281272177</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Read and write">
+      <created>1594281336208</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1594281336208</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Excercise not finished">
+      <created>1594285483108</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1594285483108</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Excercise not finished">
+      <created>1594367492556</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1594367492556</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Interfaces excercise">
+      <created>1594369769925</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1594369769925</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Interfaces excercise">
+      <created>1594373119728</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1594373119728</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Interfaces excercise">
+      <created>1594389260852</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1594389260852</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Interfaces excercise">
+      <created>1594624450765</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1594624450765</updated>
+    </task>
+    <task id="LOCAL-00013" summary="All the Excercises Chapter 1">
+      <created>1594813512128</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1594813512128</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added the solutions from the book">
+      <created>1594814963973</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1594814963973</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Chapter 2 : pag 56 - 62">
+      <created>1594829396680</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1594829396680</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Chapter 2 : pag 56 - 62">
+      <created>1597387145902</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1597387145902</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changes new day" />
+    <MESSAGE value="Exceptions" />
+    <MESSAGE value="Read and write" />
+    <MESSAGE value="Excercise not finished" />
+    <MESSAGE value="Interfaces excercise" />
+    <MESSAGE value="Chapter 1" />
+    <MESSAGE value="All the Excercises Chapter 1" />
+    <MESSAGE value="added the solutions from the book" />
+    <MESSAGE value="Chapter 2 : pag 56 - 62" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 2 : pag 56 - 62" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3179" y="206" key="#com.intellij.ide.util.MemberChooser" timestamp="1594377865476">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3179" y="206" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594377865476" />
+    <state x="2585" y="336" key="#com.intellij.refactoring.memberPushDown.PushDownDialog" timestamp="1594375022709">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2585" y="336" key="#com.intellij.refactoring.memberPushDown.PushDownDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594375022709" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1594633990743">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594633990743" />
+    <state x="818" y="418" key="Github.ShareDialog" timestamp="1594033042564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="818" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594033042564" />
+    <state width="914" height="200" key="GridCell.Tab.0.bottom" timestamp="1597446879637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="164" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594728987618" />
+    <state width="1877" height="169" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594794984923" />
+    <state width="1877" height="378" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594973898686" />
+    <state width="914" height="200" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597446879637" />
+    <state width="914" height="200" key="GridCell.Tab.0.center" timestamp="1597446879637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="164" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594728987618" />
+    <state width="1877" height="169" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594794984923" />
+    <state width="1877" height="378" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594973898686" />
+    <state width="914" height="200" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597446879637" />
+    <state width="914" height="200" key="GridCell.Tab.0.left" timestamp="1597446879637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="164" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594728987618" />
+    <state width="1877" height="169" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594794984923" />
+    <state width="1877" height="378" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594973898686" />
+    <state width="914" height="200" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597446879637" />
+    <state width="914" height="200" key="GridCell.Tab.0.right" timestamp="1597446879637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="164" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594728987618" />
+    <state width="1877" height="169" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594794984923" />
+    <state width="1877" height="378" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594973898686" />
+    <state width="914" height="200" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597446879637" />
+    <state x="1092" y="283" key="MultipleFileMergeDialog" timestamp="1594624471127">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3012" y="283" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594281324875" />
+    <state x="1092" y="283" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594624471127" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1594104343966">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594104343966" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597387154284">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1594725311810" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594795030793" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594829399042" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597387154284" />
+    <state x="186" y="308" key="git4idea.merge.GitPullDialog" timestamp="1594795045897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="186" y="308" key="git4idea.merge.GitPullDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594795045897" />
+    <state x="2106" y="308" key="git4idea.merge.GitPullDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594373235675" />
+    <state x="186" y="308" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594624601303" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/day8/abstractandinterfaces/Main.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

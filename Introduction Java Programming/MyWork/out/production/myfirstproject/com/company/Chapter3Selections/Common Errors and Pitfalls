@@ -1,0 +1,17 @@
+Forgetting necessary braces, ending an if statement in the wrong place, mistaking == for =, and dangling else clauses
+are common errors in selection statements. Duplicated statements in if-else statements and testing equality of double
+values are common pitfalls
+
+    * Common Error 1 : Forgetting Necessary Braces
+
+    * Common Error 2 : Wrong Semicolon at the if Line
+
+    * Common Error 3 : Redundant Testing of Boolean Values
+
+    * Common Error 4 : Dangling else Ambiguity
+
+    * Common Error 5 : Equality Test of Two Floating-Point Values
+
+    * Common Pitfall 1 : Simplifying Boolean Variable Assignment
+
+    * Common Pitfall 2 : Avoiding Duplicate Code in Different Cases

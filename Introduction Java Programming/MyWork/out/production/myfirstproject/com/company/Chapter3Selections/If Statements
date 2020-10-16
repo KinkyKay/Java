@@ -1,0 +1,9 @@
+An if statement is a construct that enables a program to specify alternative paths of execution.
+
+    A one-way if statement executes an action if and only if the condition is true.
+    The syntax is as follows:
+
+        if (boolean-expression) {
+            statement(s);
+        }
+

@@ -1,0 +1,23 @@
+A conditional operator evaluates an expression based on a condition.
+
+    The syntax to use the operator is as follows:
+
+        boolean-expression ? expression1 : expression2
+
+    The result of this expression is expression1 if boolean-expression is true; otherwise the result is expression2.
+
+
+Operator Precedence and Associativity
+Operator precedence and associativity determine the order in which operators are evaluated.
+
+        1   var++ and var--
+        2   +, -,(unary plus and minus) ++var, --var
+        3   ! (Not)
+        4   *, /, %
+        5   +, -
+        6   <, <=, >, >=
+        7   ==, != (Equality)
+        8   ^ (Exclusive OR)
+        9   $$ (AND)
+        10  || (OR)
+        11  =, +=, -=, *=, /=, %=

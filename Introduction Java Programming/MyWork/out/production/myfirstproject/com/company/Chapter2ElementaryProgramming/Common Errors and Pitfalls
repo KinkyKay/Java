@@ -1,0 +1,33 @@
+Common elementary programming errors often involve underdeclared variables, uninitialized variables, integer overflow,
+unintended integer division, and round-off errors.
+
+Common Error 1: Undeclared/Uninitialized variables and unused variables
+	Double interestRate = 0.05;
+	Double interest = interestrate * 45;
+Interestrate has not been declared and initialized.
+
+Common Error 2: Integer Overflow
+When a variable is assigned a value that is too large to be stored, it causes overflow.
+When a floating-point number is too small to be stored, it causes underflow.
+
+Common Error 3: Round-off Errors
+Also called a rounding error, is the difference between the calculated approximation of a number and its
+mathematical value.
+
+Common Error 4: Unintended integer Division
+
+Common Pitfall 1: Redundant Input Objects
+	Scanner input = new Scanner (System.in);
+	System.out.println("Enter an integer: ");
+	Int v1 = input.nextInt();
+
+	Scanner input1 = new Scanner(System.in);    // BAD CODE
+	System.out.println("Enter a double value: ");
+	Double v2 = input1.nextDouble();
+
+	Scanner input = new Scanner(System.in);      // GOOD CODE
+	System.out.println("Enter an integer: ");
+	Int v1 = input.nextInt();
+	System.out.println("Enter a double value: ");
+	Double v2 = input.nextDouble();
+

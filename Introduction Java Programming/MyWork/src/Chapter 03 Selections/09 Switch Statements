@@ -1,0 +1,26 @@
+A switch statement executes statements based on the value of a variable or an expression.
+
+    This statement checks to see whether the status matches the value. If matched, the corresponding tax is computed;
+    if not matched, a message is displayed.
+    Here is the full syntax for the switch statement:
+
+        switch (switch-expression) {
+            case value1: statement(s)1;
+                        break;
+            case value2: statement(s)2;
+                        break;
+            case valueN: statement(s)N;
+                        break;
+            default: statement(s)-for-default;
+        }
+
+The switch statement observes the following rules:
+* The switch-expression must vield a value of char, byte, short, int, or string type and must always be enclosed by parentheses.
+* The value1... and valueN must have the same data type as the value of the switch-expression. Value1,... and valueN are constant
+  expressions, meaning they cannot contain variables, such as 1 + x.
+* When the value in a case statement matches the value of the switch-expression, the statements starting from this case are
+  executed until either a break statement or the end of the switch statement is reached.
+* The default case, which is optional, can be used to perform actions when none of the specified cases matches the switch-expressions.
+* The keyword break is optional. The break statement immediately ends the switch statement.
+
+Example: ChineseZodiac.java
