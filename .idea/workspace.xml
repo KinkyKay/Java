@@ -1,11 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="673b7d65-1219-4499-865c-1de95629ac60" name="Default Changelist" comment="" />
+    <list default="true" id="673b7d65-1219-4499-865c-1de95629ac60" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/08 Chapter 01 Summary" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Summary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/15 Chapter 2 Summary" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 2 Summary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/12 Chapter 3 Summary" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 3 Summary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/MultiplicationQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/MultiplicationQuiz.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -15,6 +49,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1iGpGzpRQbtnrYYTFSjIjxGgyBj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,16 +64,16 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\Java\Introduction Java Programming\MyWork\src" />
       <recent name="H:\Java\Introduction Java Programming\Course\Extra" />
       <recent name="H:\Java\Introduction Java Programming\Course\Extra " />
       <recent name="H:\Java\Introduction Java Programming\Course" />
       <recent name="H:\Java\Introduction Java Programming\Ex Maaike" />
-      <recent name="H:\Java\Introduction Java Programming" />
     </key>
   </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Kinky\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,15 +89,67 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Chapters 1 - 2 - 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapters 1 - 2 - 3" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="689" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602843725125">
+    <state x="415" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602928829301">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="689" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.-6.1920.1040/0.0.1920.1040/1920.-6.1600.860@0.0.1920.1040" timestamp="1602843725125" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1602831134482">
+    <state x="415" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.-6.1920.1040/0.0.1920.1040/1920.-6.1600.860@0.0.1920.1040" timestamp="1602928829301" />
+    <state x="689" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602848749580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/-1920.-6.1920.1040/0.0.1920.1040/1920.-6.1600.860@0.0.1920.1040" timestamp="1602831134482" />
+    <state x="689" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.-6.1920.1040/0.0.1920.1040/1920.-6.1600.860@0.0.1920.1040" timestamp="1602848749580" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1602850166375">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/-1920.-6.1920.1040/0.0.1920.1040/1920.-6.1600.860@0.0.1920.1040" timestamp="1602850166375" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601543760835" />
+    <state x="838" y="418" key="Github.ShareDialog" timestamp="1602850305255">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="418" key="Github.ShareDialog/-1920.-6.1920.1040/0.0.1920.1040/1920.-6.1600.860@0.0.1920.1040" timestamp="1602850305255" />
+    <state x="620" y="225" key="Github.UntrackedFilesDialog" timestamp="1602850315430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="620" y="225" key="Github.UntrackedFilesDialog/-1920.-6.1920.1040/0.0.1920.1040/1920.-6.1600.860@0.0.1920.1040" timestamp="1602850315430" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602850868469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.-6.1920.1040/0.0.1920.1040/1920.-6.1600.860@0.0.1920.1040" timestamp="1602850868469" />
+    <state x="790" y="311" key="svn.repositoryBrowser" timestamp="1602850176355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="311" key="svn.repositoryBrowser/-1920.-6.1920.1040/0.0.1920.1040/1920.-6.1600.860@0.0.1920.1040" timestamp="1602850176355" />
+    <state x="800" y="294" key="svn4idea.import.options" timestamp="1602850171735">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="800" y="294" key="svn4idea.import.options/-1920.-6.1920.1040/0.0.1920.1040/1920.-6.1600.860@0.0.1920.1040" timestamp="1602850171735" />
   </component>
 </project>
