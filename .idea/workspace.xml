@@ -25,10 +25,72 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b8eb34c-7740-44a2-ac7d-f5030c288ca3" name="Chapter 3" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java.iml" afterDir="false" />
+    <list default="true" id="1b8eb34c-7740-44a2-ac7d-f5030c288ca3" name="Chapter 3" comment="Chapter 3 ex ScissorRockPaper">
+      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/MultiplyThreeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/PalindromeInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/SortThreeIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/UseBooleanOperators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/ScissorRockPaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/ScissorRockPaper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/ProgrammingExcercises/AlgebraEquations.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter1Introduction/ProgrammingExcercises/AlgebraEquations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/ProgrammingExcercises/ApproximatePi.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter1Introduction/ProgrammingExcercises/ApproximatePi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/ProgrammingExcercises/AreaPerimeterCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter1Introduction/ProgrammingExcercises/AreaPerimeterCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/ProgrammingExcercises/AreaPerimeterRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter1Introduction/ProgrammingExcercises/AreaPerimeterRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/ProgrammingExcercises/AverageSpeedInKilometers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter1Introduction/ProgrammingExcercises/AverageSpeedInKilometers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/ProgrammingExcercises/AverageSpeedInMiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter1Introduction/ProgrammingExcercises/AverageSpeedInMiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/ProgrammingExcercises/ComputeExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter1Introduction/ProgrammingExcercises/ComputeExpressions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/ProgrammingExcercises/DisplayAPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter1Introduction/ProgrammingExcercises/DisplayAPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/ProgrammingExcercises/DisplayFiveMessages.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter1Introduction/ProgrammingExcercises/DisplayFiveMessages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/ProgrammingExcercises/DisplayThreeMessages.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter1Introduction/ProgrammingExcercises/DisplayThreeMessages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/ProgrammingExcercises/PopulationProjection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter1Introduction/ProgrammingExcercises/PopulationProjection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/ProgrammingExcercises/PrintATable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter1Introduction/ProgrammingExcercises/PrintATable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/ProgrammingExcercises/SummationSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter1Introduction/ProgrammingExcercises/SummationSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/ProgrammingExcercises/Acceleration.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ProgrammingExcercises/Acceleration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/ProgrammingExcercises/AreaOfHexagon.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ProgrammingExcercises/AreaOfHexagon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/ProgrammingExcercises/CalculatingEnergy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ProgrammingExcercises/CalculatingEnergy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/ProgrammingExcercises/CompoundValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ProgrammingExcercises/CompoundValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/ProgrammingExcercises/ComputeVolumeTriangel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ProgrammingExcercises/ComputeVolumeTriangel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/ProgrammingExcercises/ComputingBMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ProgrammingExcercises/ComputingBMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/ProgrammingExcercises/ConvertMetersIntoFeet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ProgrammingExcercises/ConvertMetersIntoFeet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/ProgrammingExcercises/ConvertMileToKilometer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ProgrammingExcercises/ConvertMileToKilometer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/ProgrammingExcercises/ConvertSquareMetersIntoPing.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ProgrammingExcercises/ConvertSquareMetersIntoPing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/ProgrammingExcercises/CurrentTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ProgrammingExcercises/CurrentTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/ProgrammingExcercises/DistanceOfTwoPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ProgrammingExcercises/DistanceOfTwoPoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/ProgrammingExcercises/FindNumberOfYears.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ProgrammingExcercises/FindNumberOfYears.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/ProgrammingExcercises/FindingRunwayLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ProgrammingExcercises/FindingRunwayLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/ProgrammingExcercises/MultiplyDigitsInAInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ProgrammingExcercises/MultiplyDigitsInAInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/ProgrammingExcercises/PopulationProjection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ProgrammingExcercises/PopulationProjection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/BMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/BMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/CheckISBN.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/CheckISBN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/CompareCosts.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/CompareCosts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/ComputePerimeterTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/ComputePerimeterTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/CostOfShipping.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/CostOfShipping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/CurrencyExchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/CurrencyExchange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/DayOfTheWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/DayOfTheWeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/EvenOrOddNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/EvenOrOddNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/FindFutureDates.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/FindFutureDates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/HeadsOrTails.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/HeadsOrTails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/LinearEquations.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/LinearEquations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/MonetaryUnits.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/MonetaryUnits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/MultiplicationQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/MultiplicationQuiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/MultiplyThreeNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/NumberOfDaysInMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/NumberOfDaysInMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/PalindromeInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/PickACard.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/PickACard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/RandomMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/RandomMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/RandomPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/RandomPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/ReviseCurrentTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/ReviseCurrentTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/ReviseLottery.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/ReviseLottery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/ScissorRockPaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/ScissorRockPaper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/SolveQuadraticEquations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/SortThreeIntegers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ProgrammingExcercises/UseBooleanOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Chapter3Selections/ProgrammingExcercises/MultiplyThreeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Chapter3Selections/ProgrammingExcercises/MultiplyThreeNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Chapter3Selections/ProgrammingExcercises/NumberOfDaysInMonth.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Chapter3Selections/ProgrammingExcercises/NumberOfDaysInMonth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Chapter3Selections/ProgrammingExcercises/PalindromeInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Chapter3Selections/ProgrammingExcercises/PalindromeInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Chapter3Selections/ProgrammingExcercises/RandomMonth.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Chapter3Selections/ProgrammingExcercises/RandomMonth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Chapter3Selections/ProgrammingExcercises/SolveQuadraticEquations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Chapter3Selections/ProgrammingExcercises/SortThreeIntegers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Chapter3Selections/ProgrammingExcercises/SortThreeIntegers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Chapter3Selections/ProgrammingExcercises/UseBooleanOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Chapter3Selections/ProgrammingExcercises/UseBooleanOperators.class" afterDir="false" />
     </list>
     <list id="673b7d65-1219-4499-865c-1de95629ac60" name="Default Changelist" comment="Setup" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,9 +138,9 @@
       <recent name="H:\Java\Introduction Java Programming\Ex Maaike" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ScissorRockPaper">
-    <configuration name="BMI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Chapter3Selections.ProgrammingExcercises.BMI" />
+  <component name="RunManager" selected="Application.RandomMonth">
+    <configuration name="NumberOfDaysInMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter3Selections.ProgrammingExcercises.NumberOfDaysInMonth" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +152,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckISBN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Chapter3Selections.ProgrammingExcercises.CheckISBN" />
+    <configuration name="PalindromeInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter3Selections.ProgrammingExcercises.PalindromeInteger" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +165,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompareCosts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Chapter3Selections.ProgrammingExcercises.CompareCosts" />
+    <configuration name="RandomMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter3Selections.ProgrammingExcercises.RandomMonth" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +178,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplicationQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Chapter3Selections.ProgrammingExcercises.MultiplicationQuiz" />
+    <configuration name="SortThreeIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter3Selections.ProgrammingExcercises.SortThreeIntegers" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +191,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScissorRockPaper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Chapter3Selections.ProgrammingExcercises.ScissorRockPaper" />
+    <configuration name="UseBooleanOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter3Selections.ProgrammingExcercises.UseBooleanOperators" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -144,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ScissorRockPaper" />
-        <item itemvalue="Application.CompareCosts" />
-        <item itemvalue="Application.CheckISBN" />
-        <item itemvalue="Application.BMI" />
-        <item itemvalue="Application.MultiplicationQuiz" />
+        <item itemvalue="Application.RandomMonth" />
+        <item itemvalue="Application.NumberOfDaysInMonth" />
+        <item itemvalue="Application.UseBooleanOperators" />
+        <item itemvalue="Application.SortThreeIntegers" />
+        <item itemvalue="Application.PalindromeInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +250,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603709858470</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Chapter 3 ex ScissorRockPaper">
+      <created>1603786165317</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603786165317</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Chapter 3 ex ScissorRockPaper">
+      <created>1603786176010</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603786176010</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,7 +297,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Chapters 1 - 2 - 3" />
     <MESSAGE value="Setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="Setup" />
+    <MESSAGE value="Chapter 3 ex ScissorRockPaper" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 3 ex ScissorRockPaper" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -233,10 +310,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="689" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.-6.1920.1040/0.0.1920.1040/1920.-6.1600.860@0.0.1920.1040" timestamp="1603736735547" />
+    <state x="487" y="192" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1603793849894">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="192" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1603793849894" />
     <state x="683" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1603705979285">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="683" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/-1920.-6.1920.1040/0.0.1920.1040/1920.-6.1600.860@0.0.1920.1040" timestamp="1603705979285" />
+    <state x="483" y="307" width="570" height="216" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603793858034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="483" y="307" width="570" height="216" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1603793858034" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1602850166375">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -250,26 +335,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="620" y="225" key="Github.UntrackedFilesDialog/-1920.-6.1920.1040/0.0.1920.1040/1920.-6.1600.860@0.0.1920.1040" timestamp="1602850315430" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1603785881367">
+    <state width="1493" height="188" key="GridCell.Tab.0.bottom" timestamp="1603812893053">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1920.-6.1920.1040/0.0.1920.1040/1920.-6.1600.860@0.0.1920.1040" timestamp="1603738432776" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603785881367" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1603785881367">
+    <state width="1493" height="188" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603812893053" />
+    <state width="1493" height="188" key="GridCell.Tab.0.center" timestamp="1603812893053">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.center/-1920.-6.1920.1040/0.0.1920.1040/1920.-6.1600.860@0.0.1920.1040" timestamp="1603738432775" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603785881367" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1603785881367">
+    <state width="1493" height="188" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603812893053" />
+    <state width="1493" height="188" key="GridCell.Tab.0.left" timestamp="1603812893053">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.left/-1920.-6.1920.1040/0.0.1920.1040/1920.-6.1600.860@0.0.1920.1040" timestamp="1603738432775" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603785881367" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1603785881367">
+    <state width="1493" height="188" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603812893053" />
+    <state width="1493" height="188" key="GridCell.Tab.0.right" timestamp="1603812893053">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/-1920.-6.1920.1040/0.0.1920.1040/1920.-6.1600.860@0.0.1920.1040" timestamp="1603738432775" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603785881367" />
+    <state width="1493" height="188" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603812893053" />
     <state x="790" y="389" key="VCS.EditChangelistDialog" timestamp="1603709888122">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
