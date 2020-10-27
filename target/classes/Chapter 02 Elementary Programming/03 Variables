@@ -1,0 +1,9 @@
+Variables are used to represent values that may be changed in the program.
+Variables can be used to store values to be used later in a program. They are called variables because their values
+can be changed.
+
+The syntax for declaring a variable is:
+
+	Datatype variableName;
+
+EXAMPLE: Variables.java

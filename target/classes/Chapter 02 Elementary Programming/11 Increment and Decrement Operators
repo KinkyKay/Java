@@ -1,0 +1,12 @@
+The increment operator (++) and decrement operator (--) are for incrementing and decrementing a variable by 1.
+
+Operator	Name	        Description	Example
+++var	    Preincrement	Increment var by 1, and use the new var value in the statement	        int j = ++i;
+			                // j is 2, i is 2
+Var++	    Postincrement	Increment var by 1, but use the original var value in the statement	    int j = i++;
+			                // j is 1, i is 2
+--var	    Predecrement	Decrement var by 1, and use the new var value in the statement	        int j = --i;
+			                // j = 0, i is 0
+Var--	    Postdecrement	Decrement var by 1, and use the original var value in the statement	    int j = i--
+			                // j = 1, i = 0
+

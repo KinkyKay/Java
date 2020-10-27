@@ -1,0 +1,8 @@
+Computer programs, known as software, are instructions that tell a computer what to do.
+
+3.1. Machine Language
+The machine language - a set of built-in primitive instructions. They are in the form of binary code, so if you want
+to give a computer an instruction in its native language, you have to enter the instruction as binary code.
+
+3.2. Assembly language
+Assembly language was created in the early days of computing as an alternative to machine languages.

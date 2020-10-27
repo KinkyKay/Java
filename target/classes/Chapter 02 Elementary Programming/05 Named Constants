@@ -1,0 +1,10 @@
+A named constant is an identifier that represents a permanent value.
+
+It represents permanent data that never changes, also known as a final variable in Java.
+Pi is a constant.
+
+This is the syntax for declaring a constant:
+
+	Final datatype CONSTANTNAME = value;
+
+EXAMPLE: ComputeAreaWithConstant.java

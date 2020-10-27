@@ -1,0 +1,6 @@
+Floating-Point numbers can be converted into integers using explicit casting.
+
+Casting is an operation that converts a value of one data type into a value of another data type. Java will
+automatically widen a type, but you must narrow a type explicitly.
+
+EXAMPLE: SalesTax.java
