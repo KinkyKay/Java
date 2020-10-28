@@ -1,0 +1,15 @@
+Java expressions are evaluated in the same way as arithmetic expressions.
+
+	§ Multiplication, divison, and remainder operators are applied first.
+	§ Addition and substraction are applied last.
+
+EXAMPLE: FahrenheitToCelcius.java
+
+You can invoke System.currentTimeMillis() to return the current time.
+
+The currentTimeMillis method is the System class returns the current time in milliseconds elapsed since the
+time midnight, January 1, 1970 GMT.
+
+EXAMPLE: ShowCurrentTime.java
+
+

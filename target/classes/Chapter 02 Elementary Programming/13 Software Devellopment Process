@@ -1,0 +1,22 @@
+The software development life cycle is a multistage process that includes requirements specification, analysis, design,
+implementation, testing, deployment, and maintenance.
+
+Requirements specification is a formal process that seeks to understand the problem the software will adress, and to
+document in detail what the software system needs to do.
+System analysis seeks to analyze the data flow and to identify the system's input and output.
+System design is to design a process for obtaining the output from the input.
+The essence of the system analysis and design is input, process and output (IPO).
+Implementation involves translating the system design into programs.
+Testing ensures the code meets the requirements specification and weeds out bugs.
+Deployment makes the software available for use.
+Maintenance is concerned with updating and improving the product.
+
+EXAMPLE: ComputeLoan.java
+
+	17. Case Study: Counting Monetary Units
+This section presents a program that breaks a large amount of money into smaller units.
+
+EXAMPLE: ComputeChange.java
+
+
+
