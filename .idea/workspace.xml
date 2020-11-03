@@ -22,51 +22,14 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:Chapter4MathematicalFunctionsCharactersStrings" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c2117c6-0d4e-414f-ba6c-64a671e3d0d5" name="Characters and Strings" comment="">
-      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ComputeAngles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/CommonErrors.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter1Introduction/CommonErrors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/ComputeExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter1Introduction/ComputeExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/ExcercisePag37.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter1Introduction/ExcercisePag37.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/ShowLogicErrors.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter1Introduction/ShowLogicErrors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/ShowRuntimeErrors.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter1Introduction/ShowRuntimeErrors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/ShowSyntaxErrors.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter1Introduction/ShowSyntaxErrors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter1Introduction/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/Welcome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter1Introduction/Welcome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/WelcomeWithThreeMessages.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter1Introduction/WelcomeWithThreeMessages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/AssignmentStatementsAndAssignmentExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/AssignmentStatementsAndAssignmentExpressions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/ComputeArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ComputeArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/ComputeAreaWithConsoleInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ComputeAreaWithConsoleInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/ComputeAreaWithConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ComputeAreaWithConstant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/ComputeAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ComputeAverage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/ComputeChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ComputeChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/ComputeLoan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ComputeLoan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/DispleyTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/DispleyTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/ExponentOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ExponentOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/FahrenheitToCelsius.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/FahrenheitToCelsius.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/FloatingPointLiterals.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/FloatingPointLiterals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/ReadingNumbersFromTheKeyboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ReadingNumbersFromTheKeyboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/SalesTax.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/SalesTax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/ShowCurrentTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ShowCurrentTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/AdditionQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/AdditionQuiz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ChineseZodiac.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ChineseZodiac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ComputeAndInterpetBMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ComputeAndInterpetBMI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/ComputeTax.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ComputeTax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/LeapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/Lottery.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/Lottery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/SimpleIfDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/SimpleIfDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/SubtractionQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/SubtractionQuiz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/TestBooleanOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/TestBooleanOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 04 Mathematical Funtions, Characters, and Strings/Common Mathematical Functions" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 04 Mathematical Funtions, Characters, and Strings/Common Mathematical Functions" afterDir="false" />
+    <list default="true" id="3c2117c6-0d4e-414f-ba6c-64a671e3d0d5" name="Characters and Strings" comment="Refactoring chapter 1 - 2 - 3">
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ComputeAngles.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ComputeAngles.java" afterDir="false" />
     </list>
     <list id="673b7d65-1219-4499-865c-1de95629ac60" name="Default Changelist" comment="Chapters 1 - 2 - 3" />
     <option name="SHOW_DIALOG" value="false" />
@@ -135,6 +98,19 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="ComputeAngles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter4MathematicalFunctionsCharactersAndStrings.ComputeAngles" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Chapter4MathematicalFunctionsCharactersAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -146,6 +122,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ComputeAngles" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -160,7 +141,7 @@
       <updated>1601543691017</updated>
       <workItem from="1601543692073" duration="71000" />
       <workItem from="1603286649216" duration="1289000" />
-      <workItem from="1604408747557" duration="4423000" />
+      <workItem from="1604408747557" duration="5644000" />
     </task>
     <task id="LOCAL-00001" summary="Chapters 1 - 2 - 3">
       <created>1602928869823</created>
@@ -176,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603904646268</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Refactoring chapter 1 - 2 - 3">
+      <created>1604415736503</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604415736503</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,7 +181,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="Chapter4MathematicalFunctionsCharactersStrings" />
                       </list>
                     </value>
                   </entry>
@@ -208,7 +196,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Chapters 1 - 2 - 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapters 1 - 2 - 3" />
+    <MESSAGE value="Refactoring chapter 1 - 2 - 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring chapter 1 - 2 - 3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="415" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602928829301">
@@ -274,6 +263,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="485" y="274" key="git4idea.rebase.GitRebaseDialog/0.0.1536.824@0.0.1536.824" timestamp="1603904353652" />
+    <state x="-1304" y="240" key="run.anything.popup" timestamp="1604416151535">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1304" y="240" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604416151535" />
     <state x="790" y="311" key="svn.repositoryBrowser" timestamp="1602850176355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
