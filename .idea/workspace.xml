@@ -28,18 +28,32 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c2117c6-0d4e-414f-ba6c-64a671e3d0d5" name="Characters and Strings" comment="Common Mathematical Functions&#10;Case Study: ComputeAngles">
-      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 04 Mathematical Funtions, Characters, and Strings/Character Data Type and Operations" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/AreaOfAHexagon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/AreaOfAPentagon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/AreaOfARegularPolygon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/BinaryToDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/FindTheCaracterOfAnASCIICode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/FindTheUnicodeOfACharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/GreatCircleDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/GuessBirthdayRefactor.java" afterDir="false" />
+    <list default="true" id="3c2117c6-0d4e-414f-ba6c-64a671e3d0d5" name="Characters and Strings" comment="Characters&#10;Summary&#10;Prep exercises">
+      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/BinaryToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/CheckISBN10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/CheckSSN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/CheckSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/ConvertLetterGradeToNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/DaysOfAMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/EnterThreeCountries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/GenerateVehiclePlatNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/HexToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/MonetaryUnits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/PhoneKeyPads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/ProcessAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/RandomCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/StudentMajorAndStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/VowelOrConsonant.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Summary" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Summary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/MultiplicationQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/MultiplicationQuiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/AreaOfAHexagon.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/AreaOfAHexagon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/AreaOfAPentagon.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/AreaOfAPentagon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/AreaOfARegularPolygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/AreaOfARegularPolygon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/BinaryToDecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/Payroll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/FindTheCaracterOfAnASCIICode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/FindTheCaracterOfAnASCIICode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/FindTheUnicodeOfACharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/FindTheUnicodeOfACharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/GreatCircleDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/GreatCircleDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/GuessBirthdayRefactor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/GuessBirthdayRefactor.java" afterDir="false" />
     </list>
     <list id="673b7d65-1219-4499-865c-1de95629ac60" name="Default Changelist" comment="Chapters 1 - 2 - 3" />
     <option name="SHOW_DIALOG" value="false" />
@@ -107,13 +121,52 @@
       <recent name="H:\Java\Introduction Java Programming\Ex Maaike" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MultiplicationQuiz">
+    <configuration name="AdditionQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter3Selections.AdditionQuiz" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Chapter3Selections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ComputeAngles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Chapter4MathematicalFunctionsCharactersAndStrings.ComputeAngles" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Chapter4MathematicalFunctionsCharactersAndStrings.*" />
+          <option name="PATTERN" value="com.company.Chapter4MathematicalFunctionsCharactersAndStrings.ProgrammingExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplicationQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter3Selections.ProgrammingExcercises.MultiplicationQuiz" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Chapter3Selections.ProgrammingExcercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubtractionQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter3Selections.SubtractionQuiz" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Chapter3Selections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,6 +189,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiplicationQuiz" />
+        <item itemvalue="Application.SubtractionQuiz" />
+        <item itemvalue="Application.AdditionQuiz" />
         <item itemvalue="Application.ComputeAngles" />
       </list>
     </recent_temporary>
@@ -154,7 +210,7 @@
       <workItem from="1601543692073" duration="71000" />
       <workItem from="1603286649216" duration="1289000" />
       <workItem from="1604408747557" duration="8369000" />
-      <workItem from="1604482140430" duration="10255000" />
+      <workItem from="1604482140430" duration="19925000" />
     </task>
     <task id="LOCAL-00001" summary="Chapters 1 - 2 - 3">
       <created>1602928869823</created>
@@ -184,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604417225898</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Characters&#10;Summary&#10;Prep exercises">
+      <created>1604504037746</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604504037746</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,7 +281,8 @@
     <MESSAGE value="Chapters 1 - 2 - 3" />
     <MESSAGE value="Refactoring chapter 1 - 2 - 3" />
     <MESSAGE value="Common Mathematical Functions&#10;Case Study: ComputeAngles" />
-    <option name="LAST_COMMIT_MESSAGE" value="Common Mathematical Functions&#10;Case Study: ComputeAngles" />
+    <MESSAGE value="Characters&#10;Summary&#10;Prep exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Characters&#10;Summary&#10;Prep exercises" />
   </component>
   <component name="WindowStateProjectService">
     <state x="415" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602928829301">
@@ -243,26 +307,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="620" y="225" key="Github.UntrackedFilesDialog/-1920.-6.1920.1040/0.0.1920.1040/1920.-6.1600.860@0.0.1920.1040" timestamp="1602850315430" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1604434845916">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1604649294663">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="188" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603904819337" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604434845916" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1604434845916">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604649294663" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1604649294663">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="188" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603904819337" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604434845916" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1604434845916">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604649294663" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1604649294663">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="188" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603904819337" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604434845916" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1604434845916">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604649294663" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1604649294663">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="188" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603904819337" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604434845916" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604649294663" />
     <state x="407" y="174" key="MultipleFileMergeDialog" timestamp="1603904734073">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

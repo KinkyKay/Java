@@ -1,4 +1,4 @@
-package com.company.Chapter4MathematicalFunctionsCharactersAndStrings;
+package com.company.Chapter4MathematicalFunctionsCharactersAndStrings.ProgrammingExercises;
 
 public class GreatCircleDistance {
     /*  The great circle distance is the distance between two points on the surface of a sphere. Let (x1,y1) and (x2,y2)

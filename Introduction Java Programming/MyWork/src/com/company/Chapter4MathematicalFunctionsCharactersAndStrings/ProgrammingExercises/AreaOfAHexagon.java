@@ -1,4 +1,4 @@
-package com.company.Chapter4MathematicalFunctionsCharactersAndStrings;
+package com.company.Chapter4MathematicalFunctionsCharactersAndStrings.ProgrammingExercises;
 
 public class AreaOfAHexagon {
     /*  The area of a hexagon can be computed using the following formula (s is the length of a side):
