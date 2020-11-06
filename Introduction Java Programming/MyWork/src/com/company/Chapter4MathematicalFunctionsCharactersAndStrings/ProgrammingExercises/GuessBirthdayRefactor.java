@@ -1,4 +1,4 @@
-package com.company.Chapter4MathematicalFunctionsCharactersAndStrings;
+package com.company.Chapter4MathematicalFunctionsCharactersAndStrings.ProgrammingExercises;
 
 public class GuessBirthdayRefactor {
     /*  Rewrite GuessBirthday.java, to prompt the user to enter the character Y for Yes and N for No, rather than

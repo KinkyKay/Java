@@ -1,4 +1,4 @@
-package com.company.Chapter4MathematicalFunctionsCharactersAndStrings;
+package com.company.Chapter4MathematicalFunctionsCharactersAndStrings.ProgrammingExercises;
 
 public class AreaOfARegularPolygon {
     /*  A regular polygon is an n-sided polygon in which all sides are of the same length and all angles have the same

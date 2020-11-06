@@ -1,4 +1,4 @@
-package com.company.Chapter4MathematicalFunctionsCharactersAndStrings;
+package com.company.Chapter4MathematicalFunctionsCharactersAndStrings.ProgrammingExercises;
 
 public class FindTheUnicodeOfACharacter {
     /*  Write a program that receives a character and displays its Unicode.

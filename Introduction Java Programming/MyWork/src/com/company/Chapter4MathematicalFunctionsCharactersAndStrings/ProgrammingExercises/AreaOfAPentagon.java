@@ -1,4 +1,4 @@
-package com.company.Chapter4MathematicalFunctionsCharactersAndStrings;
+package com.company.Chapter4MathematicalFunctionsCharactersAndStrings.ProgrammingExercises;
 
 public class AreaOfAPentagon {
     /* Write a program that prompts the user to enter the length from the center of a pentagon to a vertex (r) and

@@ -1,4 +1,4 @@
-package com.company.Chapter4MathematicalFunctionsCharactersAndStrings;
+package com.company.Chapter4MathematicalFunctionsCharactersAndStrings.ProgrammingExercises;
 
 public class FindTheCaracterOfAnASCIICode {
     /*  Write a program that receives a character and displays its ASCII code (an integer between 0 and 127)
