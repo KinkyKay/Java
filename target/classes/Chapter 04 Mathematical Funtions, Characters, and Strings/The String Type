@@ -1,0 +1,105 @@
+A string is a sequence of characters.
+
+    String message = "Welcome to Java";
+
+It is known as a reference type. Here, message is a reference variable that references a string object with contents
+Welcome to Java.
+
+    METHOD                  DESCRIPTION
+    length()                Returns the number of characters in this string.
+    charAt(index)           Returns the character at the specified index from this string.
+    concat(s1)              Returns a new string that concatenates this string with string s1.
+    toUpperCase()           Returns a new string with all the letters in uppercase.
+    toLowerCase()           Returns a new string with all the letters in lowercase.
+    trim()                  Returns a new string with whitespace characters trimmed on both sides.
+
+The methods can only be invoked from a specific string instance. Methods are called instance methods.
+A non-instance method is called a static method. A static method can be invoked without using an object.
+The syntax to invoke a instance method is referenceVariable.methodName(arguments).
+
+//----- GETTING STRING LENGTH -----//
+You can use the length() method to return the number of characters in a string.
+
+EXAMPLE:    String message = "Welcome to Java";
+            System.out.println("The length of " + message + " is " + message.length());
+            ==> The length of Welcome to Java is 15
+
+//----- GETTING CHARACTERS FROM A STRING -----//
+The s.charAt(index) method can be used to retrieve a specific character in a string s, where the index is between 0 and
+s.length()-1
+
+EXAMPLE:    0   1   2   3   4   5   6   7   8   9   10  11  12  13  14
+            W   e   l   c   o   m   e       t   o       J   a   v   a
+            message.chatAt(0)                               message.chatAt(14)
+            ==> W                                           ==> a
+
+//----- CONCATENATING STRINGS -----//
+You can use the concat method to concatenate two strings.
+EXAMPLE: String s3 = s1.concat (s2);
+
+You can use the plus (+) operator to concatenate two strings, so the previous example is equivalent to:
+EXAMPLE: String s3 = s1 + s2;
+
+Recall that the + operator can also concatenate a number with a string. If neither of the operands is a string, the
+plus sign is the addition operator that adds two numbers. The augmented += operator can also be used for string
+concatenation.
+
+
+//----- CONVERTING STRINGS -----//
+The toLowerCase() method returns a new string with all lowercase letters, and the toUpperCase() method returns a new
+string with all uppercase letters.
+EXAMPLE:    "Welcome".toLowercase()     ==> welcome
+            "Welcome".toUpperCase()     ==> WELCOME
+
+The trim() method returns a new string by eliminating whitespace characters from both ends of the string. The characters
+' ', \t, \f, \r, or \n are known as whitespace characters.
+EXAMPLE:    "\t Good Night \n".trim()   ==> Good Night
+
+//----- READING A STRING FROM THE CONSOLE -----//
+To read a string from the console, invoke the next() method on the scanner object.
+EXAMPLE:    Scanner input = new Scanner(System.in);
+            System.out.println("Enter three words separated by spaces: ");
+            String s1 = input.next();
+            String s2 = input.next();
+            String s3 = input.next();
+            System.out.println("s1 is " + s1);
+            System.out.println("s2 is " + s2);
+            System.out.println("s3 is " + s3);
+
+            ==> Enter three words separated by spaces: Welcome to Java
+            ==> s1 is Welcome
+            ==> s2 is to
+            ==> s3 is Java
+
+The next() method reads a string that ends a whitespace character. You can use the nextLine() method to read an entire
+line of text. The nextLine() method reads a string that ends with the Enter key pressed.
+EXAMPLE:    Scanner input = new Scanner(System.in);
+            System.out.println("Enter a line: ");
+            String s = input.nextLine();
+            System.out.println("The line entered is " + s);
+
+            ==> Enter a line: Welcome to Java
+            ==> The line entered is Welcome to Java
+
+//----- READING A CHARACTER FROM THE CONSOLE -----//
+To read a character from the console, use the nextLine() method to read a string and then invoke the charAt(0) method
+on the string to return a character.
+EXAMPLE:    Scanner input = new Scanner(System.in);
+            System.out.println("Enter a character: ");
+            String s = input.nextLine();
+            char ch = s.charAt(0);
+            System.out.println("The character entered is " + ch);
+
+//----- COMPARING STRINGS -----//
+    METHOD                      DESCRIPTION
+    equals(s1)                  Returns true if this string is equal to string s1.
+    equalsIgnoreCase(s1)        Returns true if this string is equal to string s1; it is case sensitive.
+    compareTo(s1)               Returns an integer greater than 0, equal to 0, or less than 0 to indicate whether this
+                                string is greater than, equal to, or less than s1.
+    compareToIgnoreCase(s1)     Same as compareTo except that the comparison is case sensitive.
+    startsWith(prefix)          Returns true if this string starts with the specified prefix.
+    endsWith(suffix)            Returns true if this string ends with the specified suffix.
+    contains(s1)                Returns true if s1 is a substring in this string.
+
+EXAMPLE: OrderTwoCities.java
+
