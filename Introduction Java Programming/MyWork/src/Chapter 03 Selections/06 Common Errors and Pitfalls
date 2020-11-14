@@ -1,3 +1,6 @@
+------------------------------------------------------------------------------------------------------------------------
+                                                COMMON ERRORS AND PITFALLS
+------------------------------------------------------------------------------------------------------------------------
 Forgetting necessary braces, ending an if statement in the wrong place, mistaking == for =, and dangling else clauses
 are common errors in selection statements. Duplicated statements in if-else statements and testing equality of double
 values are common pitfalls

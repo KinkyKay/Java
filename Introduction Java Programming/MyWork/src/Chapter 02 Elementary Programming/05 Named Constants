@@ -1,3 +1,6 @@
+------------------------------------------------------------------------------------------------------------------------
+                                                    NAMED CONSTANTS
+------------------------------------------------------------------------------------------------------------------------
 A named constant is an identifier that represents a permanent value.
 
 It represents permanent data that never changes, also known as a final variable in Java.

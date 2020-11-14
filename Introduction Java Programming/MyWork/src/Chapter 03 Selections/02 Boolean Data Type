@@ -1,6 +1,9 @@
+------------------------------------------------------------------------------------------------------------------------
+                                                    BOOLEAN DATA TYPE
+------------------------------------------------------------------------------------------------------------------------
 The boolean data type declares a variable with the value either true or false.
 
-    Java Operator       Math Symbol         Name                        Example (radius = 5)    Result
+    JAVA OPERATOR       MATH SYMBOL         NAME                        EXAMPLE (radius = 5)    RESULT
     <                       <               Less then                   radius < 0              false
     <=                      <=              Less then or equal to       radius <= 0             false
     >                       >               Greater then                radius > 0              true

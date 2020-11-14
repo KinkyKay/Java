@@ -1,12 +1,15 @@
+------------------------------------------------------------------------------------------------------------------------
+                                        PROGRAMMING STYLE AND DOCUMENTATION
+------------------------------------------------------------------------------------------------------------------------
 Good programming style and proper documentation make a program easy to read and help programmers prevent errors.
 
 9.1. Appropriate Comments and Comment Styles
-In addittion to line comments (beginning with //) and block comments (beginning with /*), javadoc comments begin with
+In addition to line comments (beginning with //) and block comments (beginning with /*), javadoc comments begin with
  /** and end with */.
 Use javadoc comments for commenting on an entire class or an entire method. For commenting on steps inside a method,
 use line comments (//).
 
-Liveexample: liveexample.pearsoncmg.com/javadoc/Exercise1.html.
+EXAMPLE: liveexample.pearsoncmg.com/javadoc/Exercise1.html.
 It's corresponding java code is shown in liveexample.pearsoncmg.com/javadoc/Excercise1.txt
 
 9.2. Proper Indentation an Spacing

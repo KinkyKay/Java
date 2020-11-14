@@ -1,6 +1,9 @@
+------------------------------------------------------------------------------------------------------------------------
+                                                LOGICAL OPERATORS
+------------------------------------------------------------------------------------------------------------------------
 The logical operators !, &&, ||, and ^ can be used to create a compound Boolean expression.
 
-        Operator        Name            Description
+        OPERATOR        NAME            DESCRIPTION
             !           not             Logical negation
             &&          and             Logical conjunction
             ||          or              Logical disjunction

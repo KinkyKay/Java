@@ -1,4 +1,6 @@
-//WRITING A SIMPLE PROGRAM//
+------------------------------------------------------------------------------------------------------------------------
+                                                WRITING A SIMPLE PROGRAM
+------------------------------------------------------------------------------------------------------------------------
 Writing a program involves designing a strategy for solving the problem then using a programming language to implement
 that strategy.
 
@@ -13,13 +15,15 @@ The algorithm for calculating the area of a circle can be described as follows:
 
 Java provides simple data types for representing integers, real numbers, characters, and Boolean types. These are know
 as primitive data types.
-Numers with a decimal point are represented using a method known as floating-point. You can use the keyword double to
+Numbers with a decimal point are represented using a method known as floating-point. You can use the keyword double to
 declare a floating-point variable.
 
 EXAMPLE: ComputeArea.java
 
-//READING INPUT FROM THE CONSOLE//
+------------------------------------------------------------------------------------------------------------------------
+                                                READING INPUT FROM THE CONSOLE
+------------------------------------------------------------------------------------------------------------------------
 Reading input from the console enables the program to accept input from the user.
 
-EXAMPLE: ComputeAreaWithConsoleInput.java
-         ComputeAverage.java
+EXAMPLE:    ComputeAreaWithConsoleInput.java
+            ComputeAverage.java

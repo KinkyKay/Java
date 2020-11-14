@@ -1,3 +1,6 @@
+------------------------------------------------------------------------------------------------------------------------
+                                    ASSIGNMENT STATEMENT AND ASSIGNMENT EXPRESSIONS
+------------------------------------------------------------------------------------------------------------------------
 An assignment statement designates a value for a variable. An assignment statement can be used as an expression in Java.
 
 After a variable is declared, you can assign a value to it by using an assignment statement. The equal sign ( = ) is
@@ -5,7 +8,7 @@ used as these assignment operator. The syntax for assignment statements is as fo
 
 	Variable = expression;
 
-An expression represents a computation involving values, variables, and operators that, taking them together,
-evaluates to a value.
+An expression represents a computation involving values, variables, and operators that, taking them together, evaluates
+to a value.
 
 EXAMPLE: AssignmentStatementsAndAssignmentExpressions.java

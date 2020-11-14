@@ -1,3 +1,6 @@
+------------------------------------------------------------------------------------------------------------------------
+                                            COMMON MATHEMATICAL FUNCTIONS
+------------------------------------------------------------------------------------------------------------------------
 EXAMPLE: ComputeAngles.java
 
 Java provides many useful methods in the Math class for performing common mathematical functions.
@@ -38,15 +41,13 @@ program.
 //----- The min, max and abs Methods -----//
 The min and max methods return the minimum and maximum numbers of two numbers.
 The abs method returns the absolute value of the number.
-    EXAMPLE:
-        Math.max(2 , 3)     returns 3
-        Math.min(2.5, 4.6)  returns 2.5
-        Math.abs(-2.1)      returns 2.1
+EXAMPLE:    Math.max(2 , 3)     ==> 3
+            Math.min(2.5, 4.6)  ==> 2.5
+            Math.abs(-2.1)      ==> 2.1
 
 //----- The random Method -----//
 This method generates a random double value greater than or equal to 0.0 and less than 1.0
-    EXAMPLE:
-        (int)(Math.random) * 10         Returns a random integer between 0 and 9.
-        50 + (int)(Math.random() * 50)  Returns a random integer between 50 and 99.
+EXAMPLE:    (int)(Math.random) * 10         Returns a random integer between 0 and 9.
+            50 + (int)(Math.random() * 50)  Returns a random integer between 50 and 99.
 
 

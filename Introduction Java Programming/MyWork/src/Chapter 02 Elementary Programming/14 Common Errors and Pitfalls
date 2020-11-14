@@ -1,3 +1,6 @@
+------------------------------------------------------------------------------------------------------------------------
+                                                COMMON ERRORS AND PITFALLS
+------------------------------------------------------------------------------------------------------------------------
 Common elementary programming errors often involve underdeclared variables, uninitialized variables, integer overflow,
 unintended integer division, and round-off errors.
 
