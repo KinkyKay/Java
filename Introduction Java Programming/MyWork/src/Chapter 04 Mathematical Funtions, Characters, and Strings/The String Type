@@ -1,3 +1,6 @@
+------------------------------------------------------------------------------------------------------------------------
+                                                THE STRING TYPE
+------------------------------------------------------------------------------------------------------------------------
 A string is a sequence of characters.
 
     String message = "Welcome to Java";
@@ -164,3 +167,39 @@ Strings are fundamental in programming. The ability to write programs using stri
 programming.
 
 EXAMPLE:    GuessBirthday.java
+            HexDigit2Dec.java
+            LotteryUsingStrings.java
+
+//----- FORMATTING CONSOLE OUTPUT -----//
+You can use the System.out.printf method to display formatted output on the console.
+
+Because the interest amount is currency, it is desirable to display only two digits after the decimal point. To do this,
+you can write the code as follows:
+EXAMPLE:    double amount = 1618.98;
+            double interestRate = 0.0013;
+            double interest = amount * interestRate;
+            System.out.println("Interest is $" + (int) (interest * 100) / 100.0);
+            ==> Interest is $ 16.4
+
+However, the format is still not correct. There should be two digits after the decimal point. You can fix it by using
+the printf method, as follows:
+EXAMPLE:    double amount = 12618.98;
+            double interestRate = 0.0013;
+            double interest = amount * interestRate;
+            System.out.printf("Interest is $%4.2f", interest);
+            ==> Interest is $ 16.40
+
+The f in the printf stands for formatted, implying that the method prints an item is some format. The syntax to invoke
+this method is
+        System.out.printf (format, item1, item2, ... itemk);
+
+    METHOD      OUTPUT                                      EXAMPLE
+    %b          A Boolean value                             True or false
+    %c          A character                                 'a'
+    %d          A decimal integer                           200
+    %f          A floating-point number                     45.460000
+    %e          A number in standard scientific notation    4.556000e+01
+    %s          A string                                    "Java is cool"
+
+EXAMPLE: FormatDemo.java
+

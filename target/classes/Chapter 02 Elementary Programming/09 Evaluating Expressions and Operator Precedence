@@ -1,3 +1,6 @@
+------------------------------------------------------------------------------------------------------------------------
+                                EVALUATING EXPRESSIONS AND OPERATOR PRECEDENCE
+------------------------------------------------------------------------------------------------------------------------
 Java expressions are evaluated in the same way as arithmetic expressions.
 
 	§ Multiplication, divison, and remainder operators are applied first.

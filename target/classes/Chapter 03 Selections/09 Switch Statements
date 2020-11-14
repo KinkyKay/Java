@@ -1,3 +1,6 @@
+------------------------------------------------------------------------------------------------------------------------
+                                                SWITCH STATEMENTS
+------------------------------------------------------------------------------------------------------------------------
 A switch statement executes statements based on the value of a variable or an expression.
 
     This statement checks to see whether the status matches the value. If matched, the corresponding tax is computed;
@@ -15,12 +18,14 @@ A switch statement executes statements based on the value of a variable or an ex
         }
 
 The switch statement observes the following rules:
-* The switch-expression must vield a value of char, byte, short, int, or string type and must always be enclosed by parentheses.
-* The value1... and valueN must have the same data type as the value of the switch-expression. Value1,... and valueN are constant
-  expressions, meaning they cannot contain variables, such as 1 + x.
-* When the value in a case statement matches the value of the switch-expression, the statements starting from this case are
-  executed until either a break statement or the end of the switch statement is reached.
-* The default case, which is optional, can be used to perform actions when none of the specified cases matches the switch-expressions.
+* The switch-expression must field a value of char, byte, short, int, or string type and must always be enclosed by
+  parentheses.
+* The value1... and valueN must have the same data type as the value of the switch-expression. Value1,... and valueN are
+  constant expressions, meaning they cannot contain variables, such as 1 + x.
+* When the value in a case statement matches the value of the switch-expression, the statements starting from this case
+  are executed until either a break statement or the end of the switch statement is reached.
+* The default case, which is optional, can be used to perform actions when none of the specified cases matches the
+  switch-expressions.
 * The keyword break is optional. The break statement immediately ends the switch statement.
 
-Example: ChineseZodiac.java
+EXAMPLE: ChineseZodiac.java

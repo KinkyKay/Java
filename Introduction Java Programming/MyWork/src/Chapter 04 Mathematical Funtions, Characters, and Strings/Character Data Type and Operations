@@ -1,3 +1,6 @@
+------------------------------------------------------------------------------------------------------------------------
+                                            CHARACTER DATA TYPE AND OPERATIONS
+------------------------------------------------------------------------------------------------------------------------
 A character data type represents a single character.
 
 //----- UNICODE AND ASCII CODE -----//
@@ -25,38 +28,34 @@ EXAMPLE:
 
 //----- Casting between char en Numeric Types -----//
 A char can be cast into any numeric type, and vice versa.
-    EXAMPLE:
-        // note a hex integer is written using prefix 0X
-        char ch = (char)0XAB0041; // The lower 16 bits hex code 0041 is assigned to ch.
-        System.out.println(ch);   // ch is character A
+EXAMPLE:    // note a hex integer is written using prefix 0X
+            char ch = (char)0XAB0041; ==> The lower 16 bits hex code 0041 is assigned to ch.
+            System.out.println(ch);   ==> ch is character A
 
 When a floating-point value is cast into a char, the floating-point value is first cast into a int, which is then cast
 into a char.
-    EXAMPLE: char ch = (char)65.25;     // Decimal 65 is assigned to ch
-             System.out.println(ch);    // ch is character A
+EXAMPLE:    char ch = (char)65.25;     ==> Decimal 65 is assigned to ch
+            System.out.println(ch);    ==> ch is character A
 
 When a char is cast into a numeric type, the character's Unicode is cast into a specified numeric type.
-    EXAMPLE:
-        int i = (int)'A';               // The  unicode of character A is assigned to i
-        System.out.println(i);          // i is 65
+EXAMPLE:    int i = (int)'A';           ==> The  unicode of character A is assigned to i
+            System.out.println(i);      ==> i is 65
 
 Any positive integer between 0 and FFFF is hexadecimal can be cast into a character implicitly. Any number not in this
 range must be cast into a char explicitly. All numeric operations can be applied to char operands. A char operand is
 automatically cast into a number if the other operand is a number or a character. If the other operand is a string,
 the character is concatenated with the string.
-    EXAMPLE:
-        int i = '2' + '3';              // (int)'2' is 50 and (int) '3' is 51.
-        System.out.println("i is " + i) // i is 101.
-        int j = 2 + 'a';                // (int)'a' is 97.
-        System.out.println("j is " + j) // j is 99.
-        System.out.println(j + " is the unicode for character " + (char)j); // 99 is the unicode for character c
-        System.out.println("Chapter "+ '2');
+EXAMPLE:    int i = '2' + '3';              ==> (int)'2' is 50 and (int) '3' is 51.
+            System.out.println("i is " + i) ==> i is 101.
+            int j = 2 + 'a';                ==> (int)'a' is 97.
+            System.out.println("j is " + j) ==> j is 99.
+            System.out.println(j + " is the unicode for character " + (char)j); ==> 99 is the unicode for character c
+            System.out.println("Chapter "+ '2');
 
-    DISPLAY:
-        i is 101
-        j is 99
-        99 is the unicode for character c
-        Chapter 2
+DISPLAY:    i is 101
+            j is 99
+            99 is the unicode for character c
+            Chapter 2
 
 //----- COMPARING AND TESTING CHARACTERS -----//
 Two characters can be compared using the relational operators just like comparing two numbers.
