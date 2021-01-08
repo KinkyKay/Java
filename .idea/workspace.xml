@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -26,86 +29,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c2117c6-0d4e-414f-ba6c-64a671e3d0d5" name="Characters and Strings" comment="Characters&#10;Summary&#10;Prep exercises">
-      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/FormatDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/HexDigit2Dec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/LotteryUsingStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/01 What is a computer" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/01 What is a computer" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/02 Programming Languages" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/02 Programming Languages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/03 Operating Systems" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/03 Operating Systems" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/04 Java Language" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/04 Java Language" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/05 A Simple Java Program" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/05 A Simple Java Program" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/06 Creating, Compiling and Executing a Java Program" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/06 Creating, Compiling and Executing a Java Program" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/07 Programming Style and Documentation" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 01 Introduction/07 Programming Style and Documentation" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/01 Writing a Simple Program" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/01 Writing a Simple Program" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/02 Identifiers" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/02 Identifiers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/03 Variables" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/03 Variables" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/04 Assignment Statements and Assignment Expressions" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/04 Assignment Statements and Assignment Expressions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/05 Named Constants" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/05 Named Constants" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/06 Naming Conventions" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/06 Naming Conventions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/07 Numeric Data Types and Operators" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/07 Numeric Data Types and Operators" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/08 Numeric Literals" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/08 Numeric Literals" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/09 Evaluating Expressions and Operator Precedence" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/09 Evaluating Expressions and Operator Precedence" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/10 Augmented Assignment Operators" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/10 Augmented Assignment Operators" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/11 Increment and Decrement Operators" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/11 Increment and Decrement Operators" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/12 Numeric Type Conversions" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/12 Numeric Type Conversions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/13 Software Devellopment Process" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/13 Software Devellopment Process" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/14 Common Errors and Pitfalls" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 02 Elementary Programming/14 Common Errors and Pitfalls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/01 Introduction" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/01 Introduction" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/02 Boolean Data Type" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/02 Boolean Data Type" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/03 If Statements" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/03 If Statements" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/04 Two-Way if-else Statements" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/04 Two-Way if-else Statements" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/05 Nested if and Multi-Way if-else Statements" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/05 Nested if and Multi-Way if-else Statements" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/06 Common Errors and Pitfalls" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/06 Common Errors and Pitfalls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/07 Generating Random Numbers" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/07 Generating Random Numbers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/08 Logical Operators" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/08 Logical Operators" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/09 Switch Statements" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/09 Switch Statements" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/10 Conditional Operators" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/10 Conditional Operators" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/11 Debugging" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 03 Selections/11 Debugging" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 04 Mathematical Funtions, Characters, and Strings/Character Data Type and Operations" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 04 Mathematical Funtions, Characters, and Strings/Character Data Type and Operations" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 04 Mathematical Funtions, Characters, and Strings/Common Mathematical Functions" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 04 Mathematical Funtions, Characters, and Strings/Common Mathematical Functions" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 04 Mathematical Funtions, Characters, and Strings/The String Type" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/Chapter 04 Mathematical Funtions, Characters, and Strings/The String Type" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/GuessBirthday.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/GuessBirthday.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/AreaOfAHexagon.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/AreaOfAHexagon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/AreaOfAPentagon.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/AreaOfAPentagon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/AreaOfARegularPolygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/AreaOfARegularPolygon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/BinaryToDecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/BinaryToDecimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 01 Introduction/01 What is a computer" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 01 Introduction/01 What is a computer" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 01 Introduction/02 Programming Languages" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 01 Introduction/02 Programming Languages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 01 Introduction/03 Operating Systems" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 01 Introduction/03 Operating Systems" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 01 Introduction/04 Java Language" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 01 Introduction/04 Java Language" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 01 Introduction/05 A Simple Java Program" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 01 Introduction/05 A Simple Java Program" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 01 Introduction/06 Creating, Compiling and Executing a Java Program" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 01 Introduction/06 Creating, Compiling and Executing a Java Program" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 01 Introduction/07 Programming Style and Documentation" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 01 Introduction/07 Programming Style and Documentation" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/01 Writing a Simple Program" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/01 Writing a Simple Program" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/02 Identifiers" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/02 Identifiers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/03 Variables" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/03 Variables" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/04 Assignment Statements and Assignment Expressions" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/04 Assignment Statements and Assignment Expressions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/05 Named Constants" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/05 Named Constants" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/06 Naming Conventions" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/06 Naming Conventions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/07 Numeric Data Types and Operators" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/07 Numeric Data Types and Operators" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/08 Numeric Literals" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/08 Numeric Literals" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/09 Evaluating Expressions and Operator Precedence" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/09 Evaluating Expressions and Operator Precedence" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/10 Augmented Assignment Operators" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/10 Augmented Assignment Operators" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/11 Increment and Decrement Operators" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/11 Increment and Decrement Operators" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/12 Numeric Type Conversions" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/12 Numeric Type Conversions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/13 Software Devellopment Process" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/13 Software Devellopment Process" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/14 Common Errors and Pitfalls" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 02 Elementary Programming/14 Common Errors and Pitfalls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 03 Selections/01 Introduction" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 03 Selections/01 Introduction" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 03 Selections/02 Boolean Data Type" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 03 Selections/02 Boolean Data Type" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 03 Selections/03 If Statements" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 03 Selections/03 If Statements" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 03 Selections/04 Two-Way if-else Statements" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 03 Selections/04 Two-Way if-else Statements" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 03 Selections/05 Nested if and Multi-Way if-else Statements" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 03 Selections/05 Nested if and Multi-Way if-else Statements" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 03 Selections/06 Common Errors and Pitfalls" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 03 Selections/06 Common Errors and Pitfalls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 03 Selections/07 Generating Random Numbers" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 03 Selections/07 Generating Random Numbers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 03 Selections/08 Logical Operators" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 03 Selections/08 Logical Operators" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 03 Selections/09 Switch Statements" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 03 Selections/09 Switch Statements" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 03 Selections/10 Conditional Operators" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 03 Selections/10 Conditional Operators" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 03 Selections/11 Debugging" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 03 Selections/11 Debugging" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 04 Mathematical Funtions, Characters, and Strings/Character Data Type and Operations" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 04 Mathematical Funtions, Characters, and Strings/Character Data Type and Operations" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chapter 04 Mathematical Funtions, Characters, and Strings/Common Mathematical Functions" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 04 Mathematical Funtions, Characters, and Strings/Common Mathematical Functions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter1Introduction/ProgrammingExcercises/ApproximatePi.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter1Introduction/ProgrammingExcercises/ApproximatePi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ProgrammingExcercises/DistanceOfTwoPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter2ElementaryProgramming/ProgrammingExcercises/DistanceOfTwoPoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/CheckISBN.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/CheckISBN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/DayOfTheWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/DayOfTheWeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/ScissorRockPaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter3Selections/ProgrammingExcercises/ScissorRockPaper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/CheckISBN10.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/CheckISBN10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/CheckSSN.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/CheckSSN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/CheckSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/CheckSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/ConvertLetterGradeToNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/ConvertLetterGradeToNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/DaysOfAMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/DaysOfAMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/EnterThreeCountries.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Java Programming/MyWork/src/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/EnterThreeCountries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Chapter 04 Mathematical Funtions, Characters, and Strings/The String Type" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chapter 04 Mathematical Funtions, Characters, and Strings/The String Type" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/AreaOfAHexagon.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/AreaOfAHexagon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Chapter3Selections/ProgrammingExcercises/CheckISBN.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Chapter3Selections/ProgrammingExcercises/CheckISBN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Chapter3Selections/ProgrammingExcercises/DayOfTheWeek.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Chapter3Selections/ProgrammingExcercises/DayOfTheWeek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/AreaOfAPentagon.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/AreaOfAPentagon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/AreaOfARegularPolygon.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/AreaOfARegularPolygon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/BinaryToDecimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/BinaryToDecimal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/CheckISBN10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/CheckISBN10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/CheckSSN.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/CheckSSN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/CheckSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/CheckSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/ConvertLetterGradeToNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/ConvertLetterGradeToNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/DaysOfAMonth.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/DaysOfAMonth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/EnterThreeCountries.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Chapter4MathematicalFunctionsCharactersAndStrings/ProgrammingExercises/EnterThreeCountries.class" afterDir="false" />
     </list>
     <list id="673b7d65-1219-4499-865c-1de95629ac60" name="Default Changelist" comment="Chapters 1 - 2 - 3" />
     <option name="SHOW_DIALOG" value="false" />
@@ -155,14 +103,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TestAutomation" />
+    <property name="last_opened_file_path" value="C:/Development/projects/SSCR" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -173,9 +121,9 @@
       <recent name="H:\Java\Introduction Java Programming\Ex Maaike" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinaryToDecimal">
-    <configuration name="AreaOfAHexagon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Chapter4MathematicalFunctionsCharactersAndStrings.ProgrammingExercises.AreaOfAHexagon" />
+  <component name="RunManager" selected="Application.EnterThreeCountries">
+    <configuration name="CheckSSN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter4MathematicalFunctionsCharactersAndStrings.ProgrammingExercises.CheckSSN" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -187,8 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AreaOfAPentagon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Chapter4MathematicalFunctionsCharactersAndStrings.ProgrammingExercises.AreaOfAPentagon" />
+    <configuration name="CheckSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter4MathematicalFunctionsCharactersAndStrings.ProgrammingExercises.CheckSubstring" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -200,8 +148,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AreaOfARegularPolygon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Chapter4MathematicalFunctionsCharactersAndStrings.ProgrammingExercises.AreaOfARegularPolygon" />
+    <configuration name="ConvertLetterGradeToNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter4MathematicalFunctionsCharactersAndStrings.ProgrammingExercises.ConvertLetterGradeToNumber" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -213,8 +161,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinaryToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Chapter4MathematicalFunctionsCharactersAndStrings.ProgrammingExercises.BinaryToDecimal" />
+    <configuration name="DaysOfAMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter4MathematicalFunctionsCharactersAndStrings.ProgrammingExercises.DaysOfAMonth" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -226,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FormatDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Chapter4MathematicalFunctionsCharactersAndStrings.FormatDemo" />
+    <configuration name="EnterThreeCountries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter4MathematicalFunctionsCharactersAndStrings.ProgrammingExercises.EnterThreeCountries" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Chapter4MathematicalFunctionsCharactersAndStrings.*" />
+          <option name="PATTERN" value="com.company.Chapter4MathematicalFunctionsCharactersAndStrings.ProgrammingExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,15 +189,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinaryToDecimal" />
-        <item itemvalue="Application.AreaOfARegularPolygon" />
-        <item itemvalue="Application.AreaOfAPentagon" />
-        <item itemvalue="Application.AreaOfAHexagon" />
-        <item itemvalue="Application.FormatDemo" />
+        <item itemvalue="Application.EnterThreeCountries" />
+        <item itemvalue="Application.DaysOfAMonth" />
+        <item itemvalue="Application.ConvertLetterGradeToNumber" />
+        <item itemvalue="Application.CheckSubstring" />
+        <item itemvalue="Application.CheckSSN" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\Kinky\AppData\Roaming\Subversion</configuration>
   </component>
@@ -265,6 +213,10 @@
       <workItem from="1604408747557" duration="8369000" />
       <workItem from="1604482140430" duration="20733000" />
       <workItem from="1604907143024" duration="1271000" />
+      <workItem from="1606298974739" duration="648000" />
+      <workItem from="1606300666060" duration="121000" />
+      <workItem from="1609836044731" duration="38692000" />
+      <workItem from="1610107602646" duration="1051000" />
     </task>
     <task id="LOCAL-00001" summary="Chapters 1 - 2 - 3">
       <created>1602928869823</created>
@@ -315,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605114079461</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added 4 exercises of chapter 4">
+      <created>1605380717640</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605380717640</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,7 +311,8 @@
     <MESSAGE value="Characters&#10;Summary&#10;Prep exercises" />
     <MESSAGE value="Preperation exercises" />
     <MESSAGE value="Finished Theory chapter 4&#10;Prep exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Theory chapter 4&#10;Prep exercises" />
+    <MESSAGE value="added 4 exercises of chapter 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 4 exercises of chapter 4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2335" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605258961854">
@@ -366,10 +326,11 @@
     <state x="689" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.-6.1920.1040/0.0.1920.1040/1920.-6.1600.860@0.0.1920.1040" timestamp="1602848749580" />
     <state x="-1231" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604417668939" />
     <state x="2609" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1040/-1600.0.1600.860/0.0.1920.1040@1920.0.1920.1040" timestamp="1605025631714" />
-    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1605249946525">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="-1180" y="275" key="FileChooserDialogImpl" timestamp="1610107904129">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/-1920.-6.1920.1040/0.0.1920.1040/1920.-6.1600.860@0.0.1920.1040" timestamp="1602850166375" />
+    <state x="-1180" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1610107904129" />
     <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040/-1600.0.1600.860@1920.0.1920.1040" timestamp="1605249946525" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601543760835" />
     <state x="838" y="418" key="Github.ShareDialog" timestamp="1602850305255">
@@ -380,54 +341,63 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="620" y="225" key="Github.UntrackedFilesDialog/-1920.-6.1920.1040/0.0.1920.1040/1920.-6.1600.860@0.0.1920.1040" timestamp="1602850315430" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1605376083836">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1610090328300">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="188" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603904819337" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604663611076" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1610090328300" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1600.0.1600.860@1920.0.1920.1040" timestamp="1605258865570" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/1920.0.1920.1040/-1600.0.1600.860/0.0.1920.1040@1920.0.1920.1040" timestamp="1605376083836" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1605376083836">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/1920.0.1920.1040/-1600.0.1600.860/0.0.1920.1040@1920.0.1920.1040" timestamp="1606923824690" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1610090328300">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="188" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603904819337" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604663611076" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1610090328300" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1600.0.1600.860@1920.0.1920.1040" timestamp="1605258865570" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center/1920.0.1920.1040/-1600.0.1600.860/0.0.1920.1040@1920.0.1920.1040" timestamp="1605376083836" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1605376083836">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/1920.0.1920.1040/-1600.0.1600.860/0.0.1920.1040@1920.0.1920.1040" timestamp="1606923824690" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1610090328300">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="188" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603904819337" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604663611075" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1610090328300" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1600.0.1600.860@1920.0.1920.1040" timestamp="1605258865570" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left/1920.0.1920.1040/-1600.0.1600.860/0.0.1920.1040@1920.0.1920.1040" timestamp="1605376083836" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1605376083836">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/1920.0.1920.1040/-1600.0.1600.860/0.0.1920.1040@1920.0.1920.1040" timestamp="1606923824690" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1610090328300">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="188" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603904819337" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604663611076" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1610090328300" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1600.0.1600.860@1920.0.1920.1040" timestamp="1605258865570" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right/1920.0.1920.1040/-1600.0.1600.860/0.0.1920.1040@1920.0.1920.1040" timestamp="1605376083836" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1605376083837">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/1920.0.1920.1040/-1600.0.1600.860/0.0.1920.1040@1920.0.1920.1040" timestamp="1606923824690" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1610090328300">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.0.1920.1040/-1600.0.1600.860/0.0.1920.1040@1920.0.1920.1040" timestamp="1605376083837" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1605376083837">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1610090328300" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.0.1920.1040/-1600.0.1600.860/0.0.1920.1040@1920.0.1920.1040" timestamp="1605381983948" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1610090328300">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.0.1920.1040/-1600.0.1600.860/0.0.1920.1040@1920.0.1920.1040" timestamp="1605376083837" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1605376083837">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1610090328300" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.0.1920.1040/-1600.0.1600.860/0.0.1920.1040@1920.0.1920.1040" timestamp="1605381983948" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1610090328300">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.0.1920.1040/-1600.0.1600.860/0.0.1920.1040@1920.0.1920.1040" timestamp="1605376083837" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1605376083837">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1610090328300" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.0.1920.1040/-1600.0.1600.860/0.0.1920.1040@1920.0.1920.1040" timestamp="1605381983948" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1610090328300">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.0.1920.1040/-1600.0.1600.860/0.0.1920.1040@1920.0.1920.1040" timestamp="1605376083837" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1610090328300" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.0.1920.1040/-1600.0.1600.860/0.0.1920.1040@1920.0.1920.1040" timestamp="1605381983948" />
     <state x="407" y="174" key="MultipleFileMergeDialog" timestamp="1603904734073">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="407" y="174" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1603904734073" />
+    <state x="2381" y="165" key="SettingsEditor" timestamp="1606668764253">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1459" y="165" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1606300764328" />
+    <state x="2381" y="165" key="SettingsEditor/1920.0.1920.1040/-1600.0.1600.860/0.0.1920.1040@1920.0.1920.1040" timestamp="1606668764253" />
     <state x="93" y="93" width="1350" height="638" key="ShowDiffWithBranchDialog" timestamp="1603904819412">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -436,12 +406,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="599" y="282" key="VCS.EditChangelistDialog/0.0.1536.824@0.0.1536.824" timestamp="1603904675397" />
-    <state x="-1367" y="252" key="Vcs.Push.Dialog.v2" timestamp="1604663588615">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="2473" y="252" key="Vcs.Push.Dialog.v2" timestamp="1605380856827">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.-6.1920.1040/0.0.1920.1040/1920.-6.1600.860@0.0.1920.1040" timestamp="1602928876361" />
     <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603904553147" />
     <state x="-1367" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604663588615" />
+    <state x="2473" y="252" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/-1600.0.1600.860/0.0.1920.1040@1920.0.1920.1040" timestamp="1605380856827" />
+    <state x="-1230" y="281" key="extract.method.dialog" timestamp="1609843675209">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1230" y="281" key="extract.method.dialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1609843675209" />
     <state x="510" y="201" key="git4idea.merge.GitPullDialog" timestamp="1603904726269">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

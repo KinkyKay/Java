@@ -58,32 +58,6 @@ public class DayOfTheWeek {
             case 8: System.out.println("Day of the week is Sunday"); break;
             case 9: System.out.println("Day of the week is Monday"); break;
         }
-
-//        if (h == 0) {
-//            System.out.println("Day of the week is Saturday");
-//        } else if (h == 1 || h == 7) {
-//            System.out.println("Day of the week is Sunday");
-//        } else if (h == 2 || h == 8) {
-//            System.out.println("Day of the week is Monday");
-//        } else if (h == 3 || h == 9) {
-//            System.out.println("Day of the week is Tuesday");
-//        } else if (h == 4) {
-//            System.out.println("Day of the week is Wednesday");
-//        } else if (h == 5) {
-//            System.out.println("Day of the week is Thursday");
-//        } else if (h == 6) {
-//            System.out.println("Day of the week is Friday");
-//        } else if (h == 7) {
-//            System.out.println("Day of the week is Saturday");
-//        } else if (h == 8) {
-//            System.out.println("Day of the week is Monday");
-//        } else {
-//            System.out.println("Day of the week is Tuesday");
-//        }
-
-
-
-
     }
 }
 

@@ -18,61 +18,22 @@ public class CheckISBN {
         System.out.print("Enter the first 9 digits of your ISBN: ");
         int isbn = input.nextInt();
         input.close();
-        int d10 = 0, d9 = 1, d8 = 0, d7 = 0, d6 = 0, d5 = 0, d4 = 0, d3 = 0 , d2 = 0, d1 = 0;
+        int d9 = isbn % 10;
+        int d8 = (isbn / 10) % 10;
+        int d7 = (isbn / 100) % 10;
+        int d6 = (isbn / 1000) % 10;
+        int d5 = (isbn / 10000) % 10;
+        int d4 = (isbn / 100000) % 10;
+        int d3 = (isbn / 1000000) % 10;
+        int d2 = (isbn / 10000000) % 10;
+        int d1 = (isbn / 100000000) % 10;
+        int d10 = ((d1 * 1) + (d2 * 2) + (d3 * 3) + (d4 * 4) + (d5 * 5) + (d6 * 6) + (d7 * 7) + (d8 * 8) + (d9 * 9)) % 11;
 
-        if (isbn > 0) {
-            d9 = isbn % 10;
-            System.out.println(d9);
-            d9 = d9 / 10;
-        }
-        if (isbn > 0) {
-            d8 = isbn % 100;
-            d8 = d8 / 10;
-            System.out.println(d8);
-        }
-        if (isbn > 0) {
-            d7 = isbn % 1000;
-            d7 = d7 / 100;
-            System.out.println(d7);
-        }
-        if (isbn > 0 ) {
-            d6 = isbn % 10000;
-            d6 = d6 / 1000;
-            System.out.println(d6);
-        }
-        if (isbn > 0 ) {
-            d5 = isbn % 100000;
-            d5 = d5 / 10000;
-            System.out.println(d5);
-        }
-        if (isbn > 0 ) {
-            d4 = isbn % 1000000;
-            d4 = d4 / 100000;
-            System.out.println(d4);
-        }
-        if (isbn > 0) {
-            d3 = isbn % 10000000;
-            d3 = d3 / 1000000;
-            System.out.println(d3);
-        }
-        if (isbn > 0 ) {
-            d2 = isbn % 100000000;
-            d2 = d2 / 10000000;
-            System.out.println(d2);
-        }
-        if (isbn > 0) {
-            d1 = isbn % 1000000000;
-            d1 = d1 / 100000000;
-            System.out.println(d1);
+        if (d10 < 10) {
+            System.out.println(" " + d1 + d2 + d3 + d4 + d5 + d6 + d7 + d8 + d9 + d10);
+        } else {
+            System.out.println(" " + d1 + d2 + d3 + d4 + d5 + d6 + d7 + d8 + d9 + "X");
         }
 
-        d10 = (d1 * 1 + d2 * 2 + d3 * 3 + d4 * 4 + d5 * 5 + d6 * 6 + d7 * 7 + d8 * 8 + d9 * 9) % 11;
-        System.out.println(d10);
-
-        if (d10 == 10) {
-            System.out.println("The ISBN-10 number is " + d1 + d2 + d3 + d4 + d5 + d6 + d7 + d8 + d9 + "X");
-            } else {
-            System.out.println("The ISBN-10 number is " + d1 + d2 + d3 + d4 + d5 + d6 + d7 + d8 + d9 + d10);
-        }
     }
 }
