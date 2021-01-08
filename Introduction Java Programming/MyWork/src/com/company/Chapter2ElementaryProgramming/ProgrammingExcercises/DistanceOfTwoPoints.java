@@ -26,6 +26,4 @@ public class DistanceOfTwoPoints {
     // Display result
         System.out.println("The distance between the points (" + x1 + "," + y1 + ") and (" + x2 + "," + y2 + ") is " + distance);
     }
-
-
 }
