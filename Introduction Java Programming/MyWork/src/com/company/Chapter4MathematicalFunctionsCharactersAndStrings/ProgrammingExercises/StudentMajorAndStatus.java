@@ -1,5 +1,7 @@
 package com.company.Chapter4MathematicalFunctionsCharactersAndStrings.ProgrammingExercises;
 
+import java.util.Scanner;
+
 public class StudentMajorAndStatus {
     /*  Write a program that prompts the user to enter two characters and displays the major and status represented in
         the characters. The first character indicates the major and the second is number character 1, 2, 3, 4, which
@@ -19,4 +21,37 @@ public class StudentMajorAndStatus {
             Invalid input
 
      */
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println("Enter two characters: ");
+        String ch = input.nextLine();
+        char major = ch.charAt(0);
+        char status = ch.charAt(1);
+        String majorName = new String();
+        String statusName = new String();
+
+        if(major == 'I'){
+            majorName = "Information Management";
+        } else if(major == 'A'){
+            majorName = "Accounting";
+        } else if(major == 'C'){
+           majorName = "Computer Science";
+        } else {
+            System.out.println("Invalid input");
+        }
+
+        if(status == 49){
+            statusName = "Freshman";
+        } else if(status == 50){
+            statusName = "Sophomore";
+        } else if(status == 51){
+            statusName = "Junior";
+        } else if(status == 52){
+            statusName = "Senior";
+        } else {
+            System.out.println("Invalid input");
+        }
+
+        System.out.println(majorName + " " + statusName);
+    }
 }
