@@ -1,0 +1,78 @@
+//----- INTRODUCTION -----//
+A loop can be used to tell a program to execute statements repeatedly.
+EXAMPLE:
+        // display a string a hundred times
+        System.out.println("Welcome to Java");              int count = 0;
+        System.out.println("Welcome to Java");              while (count<100){
+        System.out.println("Welcome to Java");                  System.out.println("Welcome to Java");
+        ...                                                     count++;
+        System.out.println("Welcome to Java");              }
+
+The variable count is initially 0. The loop checks whether count < 100 is true.
+
+//------ THE WHILE LOOP -----//
+A while loop executes statements repeatedly while the condition is true.
+SYNTAX:     while(loop-continuation-condition){
+                //Loop body
+                statement(s);
+            }
+FLOWCHART: miroboard => Loops.pdf
+EXAMPLE:    RepeatAdditionQuiz.java
+            GuessNumberOneTime.java
+
+//----- LOOP DESIGN STRATEGIES -----//
+The key to designing a loop is to identify the code that needs to be repeated and write a condition for terminating
+the loop.
+
+    Step 1: Identify the statements that need to be repeated.
+    Step 2: Wrap these statements in a loop as follows:
+                while(true){
+                    Statements;
+                }
+    Step 3: Code the loop-continuation-condition and add appropriate statements for controlling the loop.
+                while (loop-continuation-condition){
+                    Statements;
+                    Additional statements for controlling the loop;
+                }
+EXAMPLE:    SubtractionQuizLoop.java
+
+//----- CONTROLLING A LOOP WITH USER CONFIRMATION OR A  SENTINEL VALUE -----//
+It is a common practice to use a sentinel value to terminate the input.
+
+If you want the user to decide whether to continue, you can offer a user confirmation.
+    EXAMPLE:    char continueLoop = 'Y';
+                while (continueLoop == 'Y') {
+                    // Execute the loop body once
+                    ...
+                    // Prompt the user for confirmation
+                    System.out.println("Enter Y to continue and N to quit: ");
+                    continueLoop = input.getLine().charAt(0);
+                }
+
+A sentinel value signifies the end of the input. A loop that uses a sentinel value to control its execution is called a
+sentinel-controlled loop.
+    EXAMPLE:    SentinelValue.java
+
+You can store the data separated by whitespaces in a text file, say input.txt, and run the program using the following
+command:
+    java SentinelValue < input.txt          // This is called input redirection
+The program takes the input from the file input.txt rather than the user type the data from the keyboard at runtime.
+
+There is also output redirection, which sends the output to a file rather than displaying it on the console. The command
+is:
+    java ClassName > output.txt
+Input and output redirections can be used in the same command:
+    java SentinelValue < input.txt > output.txt
+
+//----- THE DO-WHILE LOOP -----//
+A do-while loop is the same as a while loop except that it executes the loop body first then checks the loop
+continuation condition.
+
+    SYNTAX: do {                                      EXAMPLE:  int count = 0;
+                // Loop body;                                   do {
+                Statement(s);                                       System.out.println("Welcome to Java!");
+            } while (loop-continuation-condition);                  count++;
+                                                                } while (count < 100);
+    FLOWCHART: miro => Loops.pdf
+    EXAMPLE: TestDoWhile.java
+

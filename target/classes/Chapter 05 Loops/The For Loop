@@ -1,0 +1,44 @@
+//----- THE FOR LOOP -----//
+A for loop has a concise syntax for writing loops.
+
+    i = initialValue; // Initialize loop control variable
+    while (i < endValue) {
+        // Loop body
+        ...
+        i++; // Adjust loop control variable
+    }
+
+    SYNTAX: for (initial-action; loop-continuation-condition; action-after-each-iteration) {
+                // Loop body
+                Statements;
+            }
+
+    EXAMPLE:    int i;
+                for (i = 0; i < 100; i++) {
+                    System.out.println("Welcome to Java!");
+                }
+
+//----- WHICH LOOP TO USE -----//
+You can use a for loop, a while loop, or a do-while loop, whichever is convenient.
+
+                                                Equivalent
+    while (loop-continuation-condition) {       ----------          for ( ; loop-continuation-condition; ) {
+        // Loop body                            ----------              // Loop body
+    }                                                               }
+
+    for (initial-action; loop-continuation-condition;               initial-action;
+         action-after-each-iteration) {         ----------          while (loop-continuation-condition) {
+        // Loop body                            ----------              // Loop body
+    }                                                                   action-after-each-iteration;
+                                                                    }
+
+//----- NESTED LOOPS -----//
+A loop can be nested inside another loop.
+
+    EXAMPLE:    MultiplicationTable.java
+
+//----- MINIMIZING NUMERIC ERRORS -----//
+Using floating-point numbers in the loop continuation condition may cause numeric errors.
+
+    EXAMPLE:    TestSum.java
+
